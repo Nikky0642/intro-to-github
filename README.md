@@ -6,4 +6,4 @@ A sample repository for the UBDC intro to github workshop.
 ## this is an example of updates made to the cloud version
 
 # useful links
-here is a link to the _UBDC_website (https://ubdc.ac.uk)
+here is a link to the _UBDC_website [ubdc](https://ubdc.ac.uk)
